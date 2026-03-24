@@ -1,0 +1,11 @@
+transformers
+accelerate
+bitsandbytes
+openai
+pandas
+pyyaml
+tqdm
+detoxify
+tenacity
+scipy
+
